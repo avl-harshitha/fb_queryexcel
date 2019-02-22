@@ -1,0 +1,16 @@
+{
+  "name": "fb_queryexcel",
+  "version": "1.0.2",
+  "description": "Query firebase data into a csv format",
+  "main": "index.js",
+  "git repository":"https://github.com/avl-harshitha/fb_queryexcel",
+  "keywords": ["firebase","query","excel","csv","download"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "avlharshitha",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^5.8.2"
+  }
+}
